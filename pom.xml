@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>LContreec Snapshot Nexus Repository </name>
-	      <url>http://172.31.95.89:7070/repository/maven-snapshots/</url>
+	      <url>http://13.59.55.79:8081/repository/fumaven2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
